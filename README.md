@@ -26,6 +26,3 @@ Here are some ideas to get you started:
   * ...  
   
 ℹ️ For more details see my resume on [Linkedin](https://www.linkedin.com/in/alexandre-nuttinck/).
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=alexnuttinck&count_private=true&theme=vue)](https://github.com/alexnuttinck)
-
