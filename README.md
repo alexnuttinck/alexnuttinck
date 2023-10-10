@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - :belgium: I'm from Belgium.
-- 💻 I’m currently Linux System Administrator at [UNamur](https://www.unamur.be/en).
+- 💻 I’m currently DevOps Engineer at [iMio](https://www.imio.be/).
 <!--
 - 🎓 I received a master's degree in computer science from [UNamur](https://www.unamur.be/en). (2017)
 - 📖 My publications/paper contributions are on [Google Scholar](https://scholar.google.com/citations?user=0zs4Kg0AAAAJ&hl=en&oi=ao).
